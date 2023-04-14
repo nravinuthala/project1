@@ -7,3 +7,5 @@ print("added new feature")
 print("hot fix complete")
 print("latest bug is fixed")
 print("changed on remote")
+print("new changes on remote")
+
